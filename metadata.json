@@ -1,0 +1,5 @@
+{
+  "name": "AI Course Generator",
+  "description": "Generate Udemy-style courses using AI based on your topic and preferences.",
+  "requestFramePermissions": []
+}
